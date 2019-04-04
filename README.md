@@ -1,6 +1,6 @@
 ## Introduction-to-Computational-Thinking-and-Data-Science
 
-![](images/.png)
+![](images/img.png)
 
 ### Overview
 
